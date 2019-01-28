@@ -1,0 +1,4 @@
+C:\Users\dmcna\Documents\GitHub\Scallywags-raw-files\obj\Debug\netcoreapp2.2\testingApp.csprojAssemblyReference.cache
+C:\Users\dmcna\Documents\GitHub\Scallywags-raw-files\obj\Debug\netcoreapp2.2\testingApp.csproj.CoreCompileInputs.cache
+C:\Users\dmcna\Documents\GitHub\Scallywags-raw-files\obj\Debug\netcoreapp2.2\testingApp.AssemblyInfoInputs.cache
+C:\Users\dmcna\Documents\GitHub\Scallywags-raw-files\obj\Debug\netcoreapp2.2\testingApp.AssemblyInfo.cs
