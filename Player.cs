@@ -10,10 +10,17 @@ public class Player
     public Card 
     public List<Card> Hand = new List<Card>();
 
-    public void DrawCard () {
+    public void DrawCard ()
+    {
         Card card1 = new Card;
         card1.name = "Cameron";
         card1.desc = "A card named Cameron";
         Hand.Add(card1);
+    }
+
+    public void PlayCard(int cardNumber)
+    {
+        Card card = Hand[cardNumber];
+        Hand.RemoveAt(cardNumber);
     }
 }
